@@ -9,8 +9,8 @@
 
 Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and Android. Specializing in crafting seamless user experiences and intuitive interfaces, my expertise extends to backend technologies like MongoDB and Firebase. Committed to staying at the forefront of mobile development trends, my strength lies in delivering high-quality, accessible solutions
 
-- Education </br>
-    Credential : College Diploma, Algonquin College </br>
+- Credential 🏛️  </br>
+    College Diploma, Algonquin College </br>
     Program : Mobile Application Design and Development</br>
     Campues : Ottawa</br>
 
