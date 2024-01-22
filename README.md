@@ -15,6 +15,8 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 
 <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/8a474f30-282b-4145-8411-e95cb8117ffe" alt="Android Studio Logo" width="60"/>
 
+<img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/0090251d-9f6a-41a8-b8e5-2a9f31f98414" alt="Swift Logo" width="60"/>
+
 
 
 ### Web Technologies 🌏 
@@ -25,7 +27,8 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 - React
 
 <!--
-**DiegoAuzaDev/DiegoAuzaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DiegoAuzaDev/DiegoAuzaDev** is a ✨ _special_ ✨ repository![Xcode_14_icon](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/378ce281-5a19-4f41-b63f-514130feafb5)
+ because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to ![androdi](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/a007990a-5c43-4d19-a769-fc9063adcf20)
 get you started:
