@@ -9,10 +9,10 @@
 
 Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and Android. Specializing in crafting seamless user experiences and intuitive interfaces, my expertise extends to backend technologies like MongoDB and Firebase. Committed to staying at the forefront of mobile development trends, my strength lies in delivering high-quality, accessible solutions
 
-- Education 
-    Credential : College Diploma, Algonquin College
-    Program : Mobile Application Design and Development
-    Campues : Ottawa
+- Education </br>
+    Credential : College Diploma, Algonquin College </br>
+    Program : Mobile Application Design and Development</br>
+    Campues : Ottawa</br>
 
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/79d22916-ede7-43a8-b77a-9020dad90c0a" alt="Flutter Logo" width="50" />
 
