@@ -11,7 +11,7 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 ## ⚡️ Technologies 
 
 ### Mobile Technologies 📱
-<img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/3e384727-2bdc-46a5-ad5d-e8eca3b01ef9)" alt="Flutter Logo" width="50" style="margin: 10"/>
+<img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/3e384727-2bdc-46a5-ad5d-e8eca3b01ef9)" alt="Flutter Logo" width="50" style="margin-right: 10px: 10"/>
 
 <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/b27885c4-9cfe-4254-8f59-93b4455d18e5" alt="Kotlin" width="60"/>
 
