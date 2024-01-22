@@ -11,7 +11,11 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 ## ⚡️ Technologies 
 
 ### Mobile Technologies 📱
-<img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/3e384727-2bdc-46a5-ad5d-e8eca3b01ef9)" alt="drawing" width="50"/>
+<img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/3e384727-2bdc-46a5-ad5d-e8eca3b01ef9)" alt="Flutter Logo" width="50"/>
+
+<img src="![androdi](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/8a474f30-282b-4145-8411-e95cb8117ffe)
+" alt="Android Studio Logo![Uploading androdi.png…]()
+" width="50"/>
 
 
 ### Web Technologies 🌏 
@@ -24,7 +28,8 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 <!--
 **DiegoAuzaDev/DiegoAuzaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to ![androdi](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/a007990a-5c43-4d19-a769-fc9063adcf20)
+get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
