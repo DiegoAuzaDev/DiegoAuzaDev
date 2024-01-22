@@ -11,10 +11,8 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 ## ⚡️ Technologies 
 
 ### Mobile Technologies 📱
+![flutterImg](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/3e384727-2bdc-46a5-ad5d-e8eca3b01ef9)
 
-- Flutter
-- Android Studio
-- Swift 
 
 ### Web Technologies 🌏 
 
