@@ -2,7 +2,7 @@
 ### About me 🚀 : 
 Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and Android. Specializing in crafting seamless user experiences and intuitive interfaces, my expertise extends to backend technologies like MongoDB and Firebase. Committed to staying at the forefront of mobile development trends, my strength lies in delivering high-quality, accessible solutions
 
-Here you can find my portafolio 📑 [portafolio](https://www.linkedin.com/in/diego-auza-a64b1b253/)
+Here you can find my [Portafolio  📑](https://www.linkedin.com/in/diego-auza-a64b1b253/)
 
 <!--
 **DiegoAuzaDev/DiegoAuzaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
