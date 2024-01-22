@@ -2,6 +2,7 @@
 # Diego Auza 
 
   📑 Here you can find my [Portafolio](https://www.linkedin.com/in/diego-auza-a64b1b253/)
+  
   🔭 I’m currently working on 
 
 ## About me 🚀 : 
