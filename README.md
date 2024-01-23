@@ -7,6 +7,9 @@
   
   🧠 🚗 Smart Rout App [Link to Smart Rout app](https://github.com/orgs/Smart-Rout/repositories)
 
+  <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/4adb5692-b74d-4a6b-a7e8-e92ce604a19b" alt="Smart logo" width="50" />
+
+
 ## About me 🚀 : 
 
 Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and Android. Specializing in crafting seamless user experiences and intuitive interfaces, my expertise extends to backend technologies like MongoDB and Firebase. Committed to staying at the forefront of mobile development trends, my strength lies in delivering high-quality, accessible solutions
