@@ -4,6 +4,8 @@
   📑 Here you can find my [Portafolio](https://www.linkedin.com/in/diego-auza-a64b1b253/)
   
   🔭 I’m currently working on [Shopping List Flutter app](https://github.com/DiegoAuzaDev/shopping_list_flutter)
+  
+  🔭 Smart Rout App [Link to Smart Rout app]([https://github.com/DiegoAuzaDev/shopping_list_flutter](https://github.com/orgs/Smart-Rout/repositories))
 
 ## About me 🚀 : 
 
