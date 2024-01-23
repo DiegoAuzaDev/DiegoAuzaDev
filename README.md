@@ -5,7 +5,7 @@
   
   🔭 I’m currently working on [Shopping List Flutter app](https://github.com/DiegoAuzaDev/shopping_list_flutter)
   
-  🔭 Smart Rout App [Link to Smart Rout app]([https://github.com/DiegoAuzaDev/shopping_list_flutter](https://github.com/orgs/Smart-Rout/repositories))
+  🧠 🚗 Smart Rout App [Link to Smart Rout app](https://github.com/orgs/Smart-Rout/repositories)
 
 ## About me 🚀 : 
 
