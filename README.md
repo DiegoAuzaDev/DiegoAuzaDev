@@ -18,11 +18,13 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
     College Diploma, Algonquin College </br>
     Program : Mobile Application Design and Development</br>
     Campues : Ottawa</br>
-
+</br>
+📑 Here you can find some topics I covered as a professor's assistant. [Take a look here](https://github.com/DiegoAuzaDev/JavaScript_Practice)
+</br>
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/79d22916-ede7-43a8-b77a-9020dad90c0a" alt="Flutter Logo" width="50" />
 
 
-    <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/85548b3d-17b6-4c03-af96-e67e4cd689da" alt="JS Logo" width="50" />
+  <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/85548b3d-17b6-4c03-af96-e67e4cd689da" alt="JS Logo" width="50" />
 
 
 ## ⚡️ Technologies 
