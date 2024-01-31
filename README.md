@@ -35,11 +35,11 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 ### Mobile Technologies 📱
 
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/3e384727-2bdc-46a5-ad5d-e8eca3b01ef9" alt="Flutter Logo" width="50" />
+ <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/77e53882-e4d7-4b85-bc52-449f50ed57c2" alt="Flutter Logo" width="50" />
 
 
-  <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/b27885c4-9cfe-4254-8f59-93b4455d18e5" alt="Kotlin" width="60" />
 
-  <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/0090251d-9f6a-41a8-b8e5-2a9f31f98414" alt="Swift Logo" width="60" />
+
 
 ### Web Technologies 🌏 
 
@@ -53,6 +53,8 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 <!--
 **DiegoAuzaDev/DiegoAuzaDev** is a ✨ _special_ ✨ repository![Xcode_14_icon](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/378ce281-5a19-4f41-b63f-514130feafb5)
  because its `README.md` (this file) appears on your GitHub profile.
+![sdk-react-native-icon-1024x980-7ch6m2rf](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/ec8a7015-6b5e-4a21-bc97-17563808d5f7)
+![sdk-react-native-icon-1024x980-7ch6m2rf](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/7268ea6d-bf14-49f0-ab1f-eb808d20b84d)
 
 Here are some ideas to ![androdi](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/a007990a-5c43-4d19-a769-fc9063adcf20)
 get you started:
