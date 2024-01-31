@@ -19,9 +19,11 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
     Program : Mobile Application Design and Development</br>
     Campues : Ottawa</br>
 </br>
-📑 Here you can find some topics I covered as a PA : [Take a look here](https://github.com/DiegoAuzaDev/JavaScript_Practice)
+📑 Here you can find some topics I covered as a PA : [Take a look here](https://github.com/orgs/Smart-Rout/repositories)
 
-</br>
+//(https://github.com/DiegoAuzaDev/JavaScript_Practice)
+
+
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/79d22916-ede7-43a8-b77a-9020dad90c0a" alt="Flutter Logo" width="50" />
 
 
