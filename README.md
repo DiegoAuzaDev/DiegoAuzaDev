@@ -19,7 +19,7 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
     Program : Mobile Application Design and Development</br>
     Campues : Ottawa</br>
 
-📑 Here you can find some topics I covered as a PA [Take a look here](https://github.com/DiegoAuzaDev/JavaScript_Practice)
+📑 Here you can find some topics I covered as a program assitance [Take a look here](https://github.com/DiegoAuzaDev/JavaScript_Practice)
 
 
 
