@@ -1,7 +1,7 @@
 
 # Diego Auza 
 
-  📑 Here you can find my [Portafolio](https://www.linkedin.com/in/diego-auza-a64b1b253/)
+  📑 Here you can find my [Portafolio](https://joyful-cheesecake-97c284.netlify.app/)
   
   🔭 I’m currently working on [Shopping List Flutter app](https://github.com/DiegoAuzaDev/shopping_list_flutter)
     
