@@ -4,10 +4,6 @@
   📑 Here you can find my [Portafolio](https://joyful-cheesecake-97c284.netlify.app/)
   
   🔭 I’m currently working on [Shopping List Flutter app](https://github.com/DiegoAuzaDev/shopping_list_flutter)
-    
-  🧠 Smart Route App [Link to Smart Route app](https://github.com/orgs/Smart-Rout/repositories)
-     
-  <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/4adb5692-b74d-4a6b-a7e8-e92ce604a19b" alt="Smart logo" width="75" /> 
 
 
 ## About me 🚀 : 
