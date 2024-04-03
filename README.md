@@ -1,9 +1,7 @@
 
 # Diego Auza 
 
-  📑 Here you can find my [Portafolio](https://joyful-cheesecake-97c284.netlify.app/)
-  
-  🔭 I’m currently working on [Shopping List Flutter app](https://github.com/DiegoAuzaDev/shopping_list_flutter)
+
 
 
 ## About me 🚀 : 
@@ -47,6 +45,9 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 
 
 <!--
+  📑 Here you can find my [Portafolio](https://joyful-cheesecake-97c284.netlify.app/)
+  
+  🔭 I’m currently working on [Shopping List Flutter app](https://github.com/DiegoAuzaDev/shopping_list_flutter)
 **DiegoAuzaDev/DiegoAuzaDev** is a ✨ _special_ ✨ repository![Xcode_14_icon](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/378ce281-5a19-4f41-b63f-514130feafb5)
  because its `README.md` (this file) appears on your GitHub profile.
 ![sdk-react-native-icon-1024x980-7ch6m2rf](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/ec8a7015-6b5e-4a21-bc97-17563808d5f7)
