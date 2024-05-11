@@ -21,8 +21,7 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/79d22916-ede7-43a8-b77a-9020dad90c0a" alt="Flutter Logo" width="50" />
 
 
-  <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/85548b3d-17b6-4c03-af96-e67e4cd689da" alt="JS Logo" width="50" />
-
+ 
 
 
 
@@ -39,6 +38,7 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 
 
 ### Web Technologies 🌏 
+ <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/85548b3d-17b6-4c03-af96-e67e4cd689da" alt="JS Logo" width="50" />
 
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/f07b2021-7b7a-444a-9070-e2e24795def7" alt="React Logo" width="60" />
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/bff426c1-9089-4987-a639-693afd7d6f77" alt="Angular logo" width="60" />
