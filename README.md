@@ -23,7 +23,7 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/85548b3d-17b6-4c03-af96-e67e4cd689da" alt="JS Logo" width="50" />
 
-<img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/85548b3d-17b6-4c03-af96-e67e4cd689da" alt="JS Logo" width="50" />
+<img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/ba54eeea-20ff-4e28-942f-8378c501be6a" alt="JS Logo" width="50" />
 
 
 ## ⚡️ Technologies 
@@ -45,7 +45,6 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/0a760a4d-19a0-4915-8d63-444d8ed476c2" alt="Sass logo" width="60" />
 
 
-![Java_programming_language_logo svg](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/ba54eeea-20ff-4e28-942f-8378c501be6a)
 
 <!--
   📑 Here you can find my [Portafolio](https://joyful-cheesecake-97c284.netlify.app/)
