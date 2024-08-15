@@ -13,7 +13,7 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
     Program: Mobile Application Design and Development</br>
     Campues : Ottawa</br>
 
-📑 Here you can find my portfolio:  [Take a look here]([https://github.com/DiegoAuzaDev/JavaScript_Practice](https://diegoauza.netlify.app/))
+📑 Here you can find my portfolio [Take a look here](https://diegoauza.netlify.app/)
 
 
 
