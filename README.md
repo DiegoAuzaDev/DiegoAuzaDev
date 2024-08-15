@@ -10,10 +10,10 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 
 - Credential 🏛️  </br>
     College Diploma, Algonquin College </br>
-    Program : Mobile Application Design and Development</br>
+    Program: Mobile Application Design and Development</br>
     Campues : Ottawa</br>
 
-📑 Here you can find some topics I covered as a program assitance [Take a look here](https://github.com/DiegoAuzaDev/JavaScript_Practice)
+📑 Here you can find my portfolio:  [Take a look here]([https://github.com/DiegoAuzaDev/JavaScript_Practice](https://diegoauza.netlify.app/))
 
 
 
@@ -44,7 +44,8 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/bff426c1-9089-4987-a639-693afd7d6f77" alt="Angular logo" width="60" />
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/74d3a017-9c79-43ca-b652-61eab8c5c900" alt="MUI logo" width="60" />
   <img src="https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/0a760a4d-19a0-4915-8d63-444d8ed476c2" alt="Sass logo" width="60" />
-
+  <img src="https://github.com/user-attachments/assets/4b3009d8-4aac-4a2b-8282-0b6071f072fa" alt="WordPress logo" width="60" />
+    
 
 
 <!--
@@ -57,7 +58,8 @@ Mobile Developer, with a strong emphasis on Flutter, React Native, Swift, and An
 ![sdk-react-native-icon-1024x980-7ch6m2rf](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/7268ea6d-bf14-49f0-ab1f-eb808d20b84d)
 
 Here are some ideas to ![androdi](https://github.com/DiegoAuzaDev/DiegoAuzaDev/assets/156953439/a007990a-5c43-4d19-a769-fc9063adcf20)
-get you started:
+get you started![WordPress com-Logo wine](https://github.com/user-attachments/assets/4b3009d8-4aac-4a2b-8282-0b6071f072fa)
+:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -66,5 +68,6 @@ get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...![Uploading WordPress.com-Logo.wine.png…]()
+
 -->
